@@ -21,6 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -35,14 +36,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588288309518</updated>
-      <workItem from="1588288310908" duration="900000" />
+      <workItem from="1588288310908" duration="1239000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding animation for modal">
+      <created>1588289216572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588289216572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding animation for modal">
+      <created>1588289234124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588289234124</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding animation for modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding animation for modal" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1047" y="115" key="CommitChangelistDialog2" timestamp="1588289234037">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1047" y="115" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1588289234037" />
     <state x="1286" y="444" key="Github.ShareDialog" timestamp="1588288978502">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -67,9 +91,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="939" height="298" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588288375735" />
-    <state x="1105" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588289018399">
+    <state x="1040" y="280" key="Vcs.Push.Dialog.v2" timestamp="1588289237172">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1105" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588289018399" />
+    <state x="1040" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1588289237172" />
+    <state x="1105" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588289236820">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1105" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588289236820" />
   </component>
 </project>

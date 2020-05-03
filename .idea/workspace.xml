@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f1fd8e96-9e6f-4cee-913d-b5866a1c49b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Modal/Modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Modal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/List/List.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/List/List.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/List/List.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/List/List.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Modal.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588288309518</updated>
       <workItem from="1588288310908" duration="1239000" />
-      <workItem from="1588386714272" duration="3516000" />
+      <workItem from="1588386714272" duration="4980000" />
+      <workItem from="1588464724513" duration="545000" />
     </task>
     <task id="LOCAL-00001" summary="Adding animation for modal">
       <created>1588289216572</created>
@@ -88,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588389334029</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Using CSSTransition">
+      <created>1588390362105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588390362105</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,18 +113,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding animation for modal" />
     <MESSAGE value="Using Transition.js" />
     <MESSAGE value="Wrap modal by transition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrap modal by transition" />
+    <MESSAGE value="Using CSSTransition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using CSSTransition" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1047" y="115" key="CommitChangelistDialog2" timestamp="1588389333942">
+    <state x="1047" y="115" key="CommitChangelistDialog2" timestamp="1588390362015">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1047" y="115" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1588389333942" />
+    <state x="1047" y="115" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1588390362015" />
     <state x="1286" y="444" key="Github.ShareDialog" timestamp="1588288978502">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -140,13 +151,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="939" height="298" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588288375735" />
-    <state x="1040" y="280" key="Vcs.Push.Dialog.v2" timestamp="1588289237172">
+    <state x="1040" y="280" key="Vcs.Push.Dialog.v2" timestamp="1588390363741">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1040" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1588289237172" />
-    <state x="1105" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588388581386">
+    <state x="1040" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1588390363741" />
+    <state x="1105" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588465183010">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1105" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588388581386" />
+    <state x="1105" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588465183010" />
   </component>
 </project>
